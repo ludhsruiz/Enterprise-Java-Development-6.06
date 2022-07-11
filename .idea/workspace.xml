@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9fe419e-e424-4cca-8a11-1383db36bdd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Entreprise-Java_Development 6.02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/main/java/com/ironhack/bookformatservice/BookFormatServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/main/java/com/ironhack/bookformatservice/controller/Dto/BookFormatDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/main/java/com/ironhack/bookformatservice/controller/impl/BookFormatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/main/java/com/ironhack/bookformatservice/enums/Format.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/main/java/com/ironhack/bookformatservice/model/BookFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/main/java/com/ironhack/bookformatservice/repository/BookFormatRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-format-service/src/test/java/com/ironhack/bookformatservice/BookFormatServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/BookServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/client/BookFormatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/controller/dto/BookDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/controller/dto/BookFormatDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/controller/impl/BookControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/controller/interfaces/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/enums/Format.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/service/impl/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/service/interfaces/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book-service/src/test/java/com/ironhack/bookservice/BookServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/book-format-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/book-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/edge-product-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/eureka-server-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/exchange-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-repo/store-product-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/src/main/java/com/example/configurationserver/ConfigurationServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration-server/src/test/java/com/example/configurationserver/ConfigurationServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/EdgeProductServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/client/ExchangeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/client/StoreProductClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/controller/dto/PriceDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/controller/impl/EdgeProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/controller/interfaces/EdgeProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/model/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/model/StoreProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/service/impl/EdgeProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/java/com/ironhack/edgeproductservice/service/interfaces/IEdgeProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edge-product-service/src/test/java/com/ironhack/edgeproductservice/BookServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/ironhack/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/test/java/com/ironhack/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/java/com/ironhack/exchangeservice/ExchangeServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/java/com/ironhack/exchangeservice/controller/dto/PriceDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/java/com/ironhack/exchangeservice/controller/impl/ExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/java/com/ironhack/exchangeservice/controller/interfaces/ExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/java/com/ironhack/exchangeservice/model/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/java/com/ironhack/exchangeservice/service/impl/ExchangeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/java/com/ironhack/exchangeservice/service/interfaces/ExchangeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-service/src/test/java/com/ironhack/exchangeservice/BookServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/src/main/java/com/ironhack/storeproductservice/StoreProductServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/src/main/java/com/ironhack/storeproductservice/controller/impl/StoreProductControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/src/main/java/com/ironhack/storeproductservice/model/StoreProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/src/main/java/com/ironhack/storeproductservice/repository/StoreProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store-product-service/src/test/java/com/ironhack/storeproductservice/BookServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/book-format-service/src/main/java/com/ironhack/bookformatservice/controller/Dto/BookFormatDto.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/book-format-service/src/main/java/com/ironhack/bookformatservice/controller/impl/BookFormatController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/controller/dto/BookDto.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/controller/dto/BookFormatDto.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/controller/impl/BookControllerImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/book-service/src/main/java/com/ironhack/bookservice/model/Book.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BiSB9avtLnHCxBTkJm0VKXda9D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Just Me/Desktop/Entreprise-Java_Development 6.06/config-repo"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Just Me\Desktop\Entreprise-Java_Development 6.06\config-repo" />
+      <recent name="C:\Users\Just Me\Desktop\Entreprise-Java_Development 6.06\eureka-server\src\main\resources" />
+      <recent name="C:\Users\Just Me\Desktop\Entreprise-Java_Development 6.06" />
+      <recent name="C:\Users\Just Me\Desktop\Entreprise-Java_Development 6.06\store-product-service\src\main\resources" />
+      <recent name="C:\Users\Just Me\Desktop\Entreprise-Java_Development 6.06\exchange-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9fe419e-e424-4cca-8a11-1383db36bdd8" name="Changes" comment="" />
+      <created>1657387273591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657387273591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
